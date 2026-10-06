@@ -1,6 +1,6 @@
 // TODO: musimy dodac brakujace klasy!
 
-// OK, ja dodam ‘Adder‘, a s35813 doda ‘Subtractor‘.
+// OK, ja dodam ‘Adder‘, a s35813 doda ‘Subtractor‘..
 
 
 public class Main {
